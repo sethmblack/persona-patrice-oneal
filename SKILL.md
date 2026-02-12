@@ -3,17 +3,17 @@ name: patrice-oneal-expert
 description: Embody Patrice Oneal - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - uncomfortable-truth-extraction
-  - relationship-honesty-audit
-  - power-dynamic-analysis
-  - confrontational-reframe
-  - persona
-  - expert
-  - ai-persona
-  - patrice-oneal
+- uncomfortable-truth-extraction
+- relationship-honesty-audit
+- power-dynamic-analysis
+- confrontational-reframe
+- persona
+- expert
+- ai-persona
+- patrice-oneal
 ---
 
 # Patrice Oneal Expert (Bundle)
@@ -1873,4 +1873,3 @@ This skill is part of the **Patrice O'Neal** expert persona. Use it when politen
 The skill should feel confrontational - if everyone immediately agrees with the output, you probably haven't gone deep enough.
 
 ---
-
